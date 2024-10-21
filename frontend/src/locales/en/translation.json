@@ -5,8 +5,8 @@
     },
 
     "Navbar": {
-        "Articles": "Articles",
-        "Meditation": "Meditation",
+        "Articles": "Activities",
+        "Meditation": "Workshop",
         "Sleep": "Sleep",
         "Stress": "Stress",
         "About": "About",
@@ -161,7 +161,7 @@
 
     "Footer": {
         "List": {
-            "Soul_chain": "© 2021 Soul_chain Inc.",
+            "Soul_chain": "© 2024 Soul_chain Inc.",
             "Terms": "Terms",
             "PrivacyPolicy": "Privacy Policy",
             "CookiePolicy": "Cookie Policy",
