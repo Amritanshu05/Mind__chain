@@ -1,5 +1,5 @@
 # **Soul_chain 🎯**  
-Soul_chain is a **blockchain-integrated platform** where users can earn** Soul Tokens** by engaging in mindful activities and then redeem them for discounts on** exciting workshops**. The platform operates on the Ethereum blockchain, using **ethers.js** to facilitate secure and efficient contract interactions. We employ **PyUSD** for all transactions, providing a stable currency option for users. The frontend is built with React and styled with Tailwind CSS, ensuring a seamless, responsive, and user-friendly experience across devices.
+Soul_chain is a **blockchain-integrated platform** where users can earn **Soul Tokens** by engaging in mindful activities and then redeem them for discounts on **exciting workshops**. The platform operates on the Ethereum blockchain, using **ethers.js** to facilitate secure and efficient contract interactions. We employ **PyUSD** for all transactions, providing a stable currency option for users. The frontend is built with React and styled with Tailwind CSS, ensuring a seamless, responsive, and user-friendly experience across devices.
 
 ***REMOVED***
 
