@@ -1,25 +1,25 @@
-# **Soul_chain**
+# **Mind__Chain**
 
-***REMOVED***
+<div align="center">
   
   [![React](https://img.shields.io/badge/React-v18.2.0-61dafb.svg)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3.3.0-38bdf8.svg)](https://tailwindcss.com/)
   [![Solidity](https://img.shields.io/badge/Solidity-v0.8.17-363636.svg)](https://soliditylang.org/)
   [![Live Site](https://img.shields.io/badge/Live_Site-Vercel-000000.svg)](https://mind-chain.vercel.app/)
   
-***REMOVED***
+</div>
 
-***REMOVED***
+<p align="center">
   <b>Where Mindfulness Meets Blockchain Innovation</b>
-***REMOVED***
+</p>
 
 ## 🧠 Overview
 
-Soul_chain is a **blockchain-integrated wellness platform** that rewards users with **Soul Tokens** for engaging in mindfulness activities. These tokens can be redeemed for discounts on expert-led workshops, creating a unique incentive system for mental wellbeing.
+MindChain is a **blockchain-integrated wellness platform** that rewards users with **Soul Tokens** for engaging in mindfulness activities. These tokens can be redeemed for discounts on expert-led workshops, creating a unique incentive system for mental wellbeing.
 
-Built on Ethereum and utilizing PyUSD for stable transactions, Soul_chain combines modern frontend technologies with blockchain capabilities to deliver a seamless, responsive user experience across all devices.
+Built on Ethereum and utilizing PyUSD for stable transactions, MindChain combines modern frontend technologies with blockchain capabilities to deliver a seamless, responsive user experience across all devices.
 
-***REMOVED***
+---
 
 ## ✨ Key Features
 
@@ -47,11 +47,11 @@ Built on Ethereum and utilizing PyUSD for stable transactions, Soul_chain combin
 - **Balance Management:** Monitor Soul Tokens and PyUSD in real-time
 - **Secure Transactions:** All purchases and rewards safely recorded on the blockchain
 
-***REMOVED***
+---
 
 ## 🖼️ Screenshots
 
-***REMOVED***
+<div align="center">
 
 ### Home Page
 
@@ -76,21 +76,21 @@ Built on Ethereum and utilizing PyUSD for stable transactions, Soul_chain combin
 ![image](https://github.com/user-attachments/assets/57756099-b9dc-49dc-a976-aaefae1db9da)
 
 
-***REMOVED***
+</div>
 
-***REMOVED***
+---
 
 ## 🛠️ Technology Stack
 
-***REMOVED***
+<div align="center">
   
 | Frontend | Backend | Blockchain |
-|:***REMOVED******REMOVED***--:|:***REMOVED******REMOVED***-:|:***REMOVED******REMOVED******REMOVED***-:|
+|:--------:|:-------:|:----------:|
 | React.js | Node.js | Solidity |
 | Tailwind CSS | Express | PyUSD |
 | Context API | MongoDB | Ethereum |
 
-***REMOVED***
+</div>
 
 ### Architecture Highlights
 
@@ -100,12 +100,12 @@ Built on Ethereum and utilizing PyUSD for stable transactions, Soul_chain combin
 - **Dark/Light Mode:** Toggle between themes for comfortable viewing
 - **Smart Contract Integration:** Direct interaction with Ethereum blockchain
 
-***REMOVED***
+---
 
 ## 📦 Project Structure
 
 ```
-Soul_chain/
+MindChain/
 ├── frontend/                # React frontend application
 │   ├── src/
 │   │   ├── components/      # Reusable UI components
@@ -123,7 +123,7 @@ Soul_chain/
 └── README.md                # Project documentation
 ```
 
-***REMOVED***
+---
 
 ## 🚀 Getting Started
 
@@ -139,8 +139,8 @@ Soul_chain/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/ /Soul_chain.git
-   cd Soul_chain
+   git clone https://github.com/Amritanshu05/Mind__chain.git
+   cd MindChain
    ```
 
 2. **Frontend Setup:**
@@ -168,7 +168,7 @@ Soul_chain/
    - Create or import a wallet
    - Connect to the application when prompted
 
-***REMOVED***
+---
 
 ## 🌟 Future Roadmap
 
@@ -178,29 +178,9 @@ Soul_chain/
 - **Advanced Analytics:** Personalized insights into mindfulness journey
 - **Direct Creator Payments:** Enhanced monetization for workshop creators
 
-***REMOVED***
+---
 
-## 👥 Team
+<p align="center">
+  <b>Be kind to your mind, it will be fine.</b>
+</p>
 
-***REMOVED***
-
-| <img src="https://github.com/Amritanshu05.png" alt="Amritanshu " width="100" height="100" style="border-radius:50%"/> | <img src="https://github.com/ .png" alt="" width="100" height="100" style="border-radius:50%"/> | <img src=" " alt="" width="100" height="100" style="border-radius:50%"/> |
-***REMOVED***
-|                                                   **Amritanshu **                                                    |                                                   ****                                                    |                                                     ****                                                      |
-***REMOVED***
-|                                         [GitHub](https://github.com/Amritanshu05)                                         |                                        [GitHub](https://github.com/ )                                         |                                        [GitHub]( )                                         |
-
-***REMOVED***
-
-
-***REMOVED***
-
-***REMOVED***
-***REMOVED***
-***REMOVED***
-
-***REMOVED***
-
- 
-
-***REMOVED***
